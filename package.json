@@ -1,5 +1,5 @@
 {
-  "name": "colyseus.js",
+  "name": "@beland/colyseus.js",
   "version": "0.14.14",
   "description": "Colyseus Multiplayer SDK for JavaScript/TypeScript",
   "author": "Endel Dreyer",
@@ -32,7 +32,7 @@
     },
     "./package.json": "./package.json"
   },
-  "decentralandLibrary": {
+  "belandLibrary": {
     "main": "./dist/colyseus.js",
     "typings": "./dist/colyseus.d.ts"
   },
